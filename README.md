@@ -1,2 +1,2 @@
-# -Designed-and-Developed-a-shopping-website-using-Django-HTML-CSS-and-JavaScript
+# -Designed-and-Developed-a-shopping-website
 Built a fully functional shopping website using Django, HTML, CSS, and JavaScript. Developed features such as user authentication, product listing, shopping cart, order management . Implemented backend functionality with Django for database management and dynamic content handling, while using JavaScript to improve user interaction responsiveness. 
